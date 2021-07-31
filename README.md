@@ -1,24 +1,17 @@
-# 标题1
-## 标题2
+# 自我介绍
 
-我的爱好是
+大家好，我是小Y，目前在学前端
 
-* 唱
-* 跳
-* rap
-* 篮球
+我还要学的东西有很多
 
-我的前女友是
+* HTML+CSS+JS+ES6+TypeScript
+* Vue+React
+* HTTP+AJAX+Node.js
+* 命令行+git+Webpack
+* 设计模式+编程思想
+* 排序算法+常见数据结构
 
-1. 高圆圆
-2. 古力娜扎
-3. 迪丽热巴
-4. 新恒结衣
-5. 石原里美
-
-我的网站是 [我的官网](https://baidu.com)
-
-![一张图片]（1.png）
+我的代码
 
 ```javascript
 console.log('hello')
